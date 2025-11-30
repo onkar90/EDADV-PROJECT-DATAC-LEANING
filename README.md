@@ -1,1 +1,3 @@
 # EDADV-PROJECT-DATAC-LEANING
+This project analyzes fossil fuel subsidy data from 2010 to 2023 using the official IEA Fossil Fuel Subsidies Database. The raw Excel file was cleaned and processed using Python (Jupyter Notebook). After removing errors, fixing missing values, and organizing the data, different graphs and patterns were created to understand how subsidies have increased or decreased over the years.
+The Python notebook (EDADVPROJECT) contains all the steps of cleaning, analysis, and visualization. Overall, the project gives a clear picture of global fossil fuel subsidy trends using real and trusted IEA data.
